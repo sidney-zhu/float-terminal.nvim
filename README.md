@@ -2,6 +2,8 @@
 
 [English](#english) | [中文](#中文)
 
+![Float Terminal](preview.png)
+
 ## English
 
 A minimalist floating terminal plugin for Neovim, inspired by [TJ DeVries](https://www.youtube.com/watch?v=5PIiKDES_wc) and designed to sync seamlessly with Telescope's UI.

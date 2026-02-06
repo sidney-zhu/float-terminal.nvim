@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.log
+lua_modules/
+*.swp
+*.swo
+*~
+.vscode/
